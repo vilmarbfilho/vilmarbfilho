@@ -12,6 +12,8 @@ Hello! My name is **Vilmar**, I'm a Android Developer.
 
 I believe that software can make the world a better place...
 
-My blog [vlabs.com.br](https://vlabs.com.br)
+My blog [vlabs.com.br](https://vlabs.com.br) @Deprecated
+
+My Medium [vilmarbfilho.medium.com](https://vilmarbfilho.medium.com)
 
 ---
