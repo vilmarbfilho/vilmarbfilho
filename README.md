@@ -10,6 +10,8 @@
 
 Hello! My name is **Vilmar**, I'm a Android Developer.
 
+I’ve developed projects using Node.js, NestJS, TypeScript, Python, and Flutter — some focused on learning and others closer to a professional level. I’m curious about reverse engineering and enjoy understanding how things work under the hood.
+
 I believe that software can make the world a better place...
 
 My blog [vilmarbfilho.github.io](https://vilmarbfilho.github.io)
