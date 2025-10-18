@@ -1,4 +1,4 @@
-# V1lm4r
+# Vilmar
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vilmar-bispo-filho-05075951/)](https://www.linkedin.com/in/vilmar-bispo-filho-05075951/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vyumar)](https://twitter.com/vyumar)
@@ -10,7 +10,7 @@
 
 Hello! My name is **Vilmar**, I'm a Android Developer.
 
-I’ve developed projects using Node.js, NestJS, TypeScript, Python, and Flutter — some focused on learning and others closer to a professional level. I’m curious about reverse engineering and enjoy understanding how things work under the hood.
+I’ve developed projects using Node.js, NestJS, TypeScript, Python, Flutter, and iOS — some focused on learning and others closer to a professional level. I also create projects leveraging AI to enhance productivity in everyday processes. I’m curious about reverse engineering and enjoy understanding how things work under the hood.
 
 I believe that software can make the world a better place...
 
